@@ -1,4 +1,9 @@
 <?php
+/**
+*Cinsiyet, boy yaş ve kilo değeri girip bmr hesabı yapıyoruz.
+*İlk olarak kadın bilgilerini kod satırlarına ekledik.
+*Kadın için girilen değerlere bakıp bmr hesabı yapılacak ekran çıktısı verilecek.
+*/
 $gender = "female"; // Cinsiyet
 $weight = 55; // Kilo 
 $height = 160; // Boy
